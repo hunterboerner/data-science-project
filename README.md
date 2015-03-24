@@ -10,6 +10,7 @@ Data science project for data science things.
 - AvgHighTemp vs Mean Household Income
 - AvgLowTemp vs Mean Household Income
 - % with graduate, bachelors, or associate degree vs 2012 election results (red = republican, blue = democrat)
+- % with graduate degree vs Mean household income
 
 
 ##Credits
