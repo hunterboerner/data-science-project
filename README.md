@@ -6,3 +6,4 @@ Data science project for data science things.
 ##Ideas:
 
 - Average tempature vs percent over 65
+- PercentWhite vs MedianHouseholdIncome
