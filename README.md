@@ -1,4 +1,4 @@
-# data-science-project
+# Data Science Project
 Data science project for data science things.
 
-Insert More Stuff Here...
+Basically we were supposed to do things with data. 
