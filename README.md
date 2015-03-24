@@ -9,6 +9,7 @@ Data science project for data science things.
 - AverageHouseholdSize vs MeanHouseholdIncome
 - AvgHighTemp vs Mean Household Income
 - AvgLowTemp vs Mean Household Income
+- % with graduate, bachelors, or associate degree vs 2012 election results (red = republican, blue = democrat)
 
 
 ##Credits
