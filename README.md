@@ -8,3 +8,4 @@ Data science project for data science things.
 - Average tempature vs percent over 65
 - PercentWhite vs MedianHouseholdIncome
 - MedianHouseholdIncome vs PercentFemale
+- AverageHouseholdSize vs MeanHouseholdIncome
