@@ -1,6 +1,9 @@
 # Data Science Project
 Data science project for data science things.
 
+##Example Notebooks for Reference:
+- [here](https://github.com/hunterboerner/data_science_notebooks)
+
 ##Ideas:
 
 - Average tempature vs percent over 65
