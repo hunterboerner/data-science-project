@@ -1,12 +1,20 @@
 # Data Science Project
 Data science project for data science things.
 
-##Example Notebooks for Reference:
-- [here](https://github.com/hunterboerner/data_science_notebooks)
+##Resources:
 
-##Ideas:
+- [Example Notebooks for Reference](https://github.com/hunterboerner/data_science_notebooks)
+
+##ToDo:  
+
+---
+
+###Completed:
 
 - Average tempature vs percent over 65
+
+###Ideas:
+
 - PercentWhite vs MedianHouseholdIncome
 - MedianHouseholdIncome vs PercentFemale
 - AverageHouseholdSize vs MeanHouseholdIncome
@@ -15,6 +23,7 @@ Data science project for data science things.
 - % with graduate, bachelors, or associate degree vs 2012 election results (red = republican, blue = democrat)
 - % with graduate degree vs Mean household income
 
+---
 
 ##Credits
 
