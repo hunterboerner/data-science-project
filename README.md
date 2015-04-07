@@ -7,21 +7,7 @@ Data science project for data science things.
 
 ##ToDo:  
 
----
-
-###Completed:
-
-- Average tempature vs percent over 65
-
-###Ideas:
-
-- PercentWhite vs MedianHouseholdIncome
-- MedianHouseholdIncome vs PercentFemale
-- AverageHouseholdSize vs MeanHouseholdIncome
-- AvgHighTemp vs Mean Household Income
-- AvgLowTemp vs Mean Household Income
-- % with graduate, bachelors, or associate degree vs 2012 election results (red = republican, blue = democrat)
-- % with graduate degree vs Mean household income
+Moved to [issues](https://github.com/hunterboerner/data-science-project/issues).
 
 ---
 
